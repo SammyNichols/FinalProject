@@ -1,0 +1,27 @@
+{
+	"firstName":"",
+	"lastName":"",
+	"address": 
+	{
+		"street":"",
+		"city":"",
+		"state":"",
+		"zip":""
+	}
+
+}
+
+{
+	"user_id":"",
+	"article":
+	{
+		"article_age":"",
+		"article_picture_url":"",
+		"article_type":"",
+		"brand":"",
+		"description":"",
+		"price":""
+	},
+	"status":"",
+
+}
